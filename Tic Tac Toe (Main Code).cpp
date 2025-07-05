@@ -2,7 +2,6 @@
 #include<fstream>
 #include<stack>
 #include<conio.h>
-#include"CPU Mode.cpp"
 #include"CPU Mode.h"
 #define RESET       "\033[0m"
 #define BOLDRED     "\033[1m\033[31m"      // Bold Red 
